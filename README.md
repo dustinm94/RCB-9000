@@ -8,7 +8,10 @@ I am storing the reddit comments in a SQLite database.
 The website I am using to get the reddit comments from: http://files.pushshift.io/reddit/comments/
 
 # What I am learning
-How to manipulate JSON data, how deep learning works, AI basics, how to use tensorflow.
+*How to manipulate JSON data 
+*How deep learning works
+*AI basics 
+*How to use tensorflow.
 
 # Goals
 Possibly creating a specific type of chatbot for example only use engineering subreddits for data, thus making it a chatbot that only talks about engineering related topics and questions. (As you can see you can apply any subreddit to this)
