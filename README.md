@@ -14,4 +14,4 @@ The website I am using to get the reddit comments from: http://files.pushshift.i
 * How to use tensorflow.
 
 # Goals
-Possibly creating a specific type of chatbot for example only use engineering subreddits for data, thus making it a chatbot that only talks about engineering related topics and questions. (As you can see you can apply any subreddit to this)
+Possibly creating a specific type of chatbot. For example only use engineering subreddits for data, thus making it a chatbot that only talks about engineering related topics and questions. (As you can see, you can apply any subreddit to this)
