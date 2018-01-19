@@ -7,6 +7,8 @@ This is over 1.7 Billion comments, these comments will become the bots vocabular
 I am storing the reddit comments in a SQLite database.
 The website I am using to get the reddit comments from: http://files.pushshift.io/reddit/comments/
 
+I was not able to upload the Database file to github, due to the size limitations. The chatbot database script, is eaasy to set up. If you download some reddit data from the link above you can change the name under timeframe to the name of the file you choose to upload to the DB, also change the system path to your path.
+
 # What I am learning
 * How to manipulate JSON data 
 * How deep learning works
