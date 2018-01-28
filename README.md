@@ -16,6 +16,8 @@ I was not able to upload the Database file to github, due to the size limitation
 * How to use tensorflow
 * Gaining experience with Pandas
 * Gaining experience with SQlite 
+* Gaining experience with CUDA 8.0
+* Gaining experience with cudNN 6.0
 
 # Goals
 Possibly creating a specific type of chatbot. For example only use engineering subreddits for data, thus making it a chatbot that only talks about engineering related topics and questions. (As you can see, you can apply any subreddit to this)
