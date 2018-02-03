@@ -1,3 +1,4 @@
+![reddit icon](https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1515706468/cglulikvbtjxtewjq6zq.png)
 # RCB-9000
 Reddit Conversation Bot
 
