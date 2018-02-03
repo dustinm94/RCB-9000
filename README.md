@@ -9,6 +9,8 @@ The website I am using to get the reddit comments from: http://files.pushshift.i
 
 I was not able to upload the Database file to github, due to the size limitations. The chatbot database script, is eaasy to set up. If you download some reddit data from the link above you can change the name under timeframe to the name of the file you choose to upload to the DB, also change the system path to your path.
 
+I have used nmt-chatbot, which is an open sourced training program that uses tesnorflow CUDA and cudNN. Link to the github page where I cloned from is [here.](https://github.com/daniel-kukiela)
+
 # What I am learning
 * How to manipulate JSON data better
 * How deep learning works
