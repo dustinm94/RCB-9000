@@ -12,6 +12,8 @@ I was not able to upload the Database file to github, due to the size limitation
 
 I have used nmt-chatbot, which is an open sourced training program that uses tesnorflow CUDA and cudNN. Link to the github page where I cloned from is [here.](https://github.com/daniel-kukiela)
 
+for clarification reasons test.from test.to are data files of reddit comments.
+
 # What I am learning
 * How to manipulate JSON data better
 * How deep learning works
